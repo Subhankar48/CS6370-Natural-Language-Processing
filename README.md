@@ -1,1 +1,1 @@
-# CS637-Natural-Language-Processing
+# CS6370-Natural-Language-Processing
